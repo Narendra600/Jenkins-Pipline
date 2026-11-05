@@ -6,3 +6,4 @@ After setup localhost:8080 got run.
 C:\ProgramData\Jenkins\.jenkins\secrets\initialAdminPassword this path came in localhost url
 For password paste this path C:\ProgramData\Jenkins\.jenkins\secrets in go jenkins secret folder and open notpad initialAdminpassword
 This is for local system jenkins run environment.
+install jenkins in linux with this link https://www.jenkins.io/doc/book/installing/linux/
