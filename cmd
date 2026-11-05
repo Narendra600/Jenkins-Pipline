@@ -4,4 +4,4 @@ https://www.jenkins.io/download/thank-you-downloading-windows-installer-stable/
 C drive make bin folder and paste jenkins.war  with this link https://updates.jenkins.io/download/war/
 After setup localhost:8080 got run.
 C:\ProgramData\Jenkins\.jenkins\secrets\initialAdminPassword this path came in localhost url
-
+For password paste this path C:\ProgramData\Jenkins\.jenkins\secrets in go jenkins secret folder and open notpad initialAdminpassword
