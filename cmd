@@ -7,3 +7,5 @@ C:\ProgramData\Jenkins\.jenkins\secrets\initialAdminPassword this path came in l
 For password paste this path C:\ProgramData\Jenkins\.jenkins\secrets in go jenkins secret folder and open notpad initialAdminpassword
 This is for local system jenkins run environment.
 install jenkins in linux with this link https://www.jenkins.io/doc/book/installing/linux/
+
+install jdk 25 or 27 version with this link https://www.oracle.com/in/java/technologies/downloads/#jdk26-windows
