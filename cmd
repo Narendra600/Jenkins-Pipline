@@ -9,3 +9,6 @@ This is for local system jenkins run environment.
 install jenkins in linux with this link https://www.jenkins.io/doc/book/installing/linux/
 
 install jdk 25 or 27 version with this link https://www.oracle.com/in/java/technologies/downloads/#jdk26-windows
+For narendra node agent ke liye ye cmd prompt pr run kro agent file download hogi curl.exe -sO http://localhost:8080/jnlpJars/agent.jar
+
+C:\dev\narendra node  ye location pr agent file download hogi.
