@@ -12,3 +12,5 @@ install jdk 25 or 27 version with this link https://www.oracle.com/in/java/techn
 For narendra node agent ke liye ye cmd prompt pr run kro agent file download hogi curl.exe -sO http://localhost:8080/jnlpJars/agent.jar
 
 C:\dev\narendra node  ye location pr agent file download hogi.
+Phir uske baad ye cmd run kro narendra node connected show hoga :-
+java -jar agent.jar -url http://localhost:8080/ -secret a18b84e0a3fd86ec20b1c9cc90d5bd213d454311305441380fb515158b616fab -name Narendra -webSocket -workDir "C:\dev\narendra node"
